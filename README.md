@@ -6,8 +6,6 @@
 
 PyData é o programa educacional da NumFOCUS.
 
-A [NumFOCUS](https://numfocus.org/) (Numerical Foundation for Open Code and Useable Science) é uma organização sem fins lucrativos que promove práticas abertas de pesquisa, dados e computação científica.
-
 O [PyData](https://pydata.org/) proporcional um fórum para a comunidade internacional de usuários e desenvolvedores de ferramentas de análise de dados para compartilharmos ideas e aprendemos uns com os outros.
 
 Existem quase 200 grupos em quase 70 países diferentes: https://www.meetup.com/pro/pydata/
@@ -15,3 +13,6 @@ Existem quase 200 grupos em quase 70 países diferentes: https://www.meetup.com/
 Em Belo Horizonte tem o grupo do [Telegram PyData BH](https://t.me/pydatabh):
 ![PyData BH](imagens/pydatabh.svg)
 
+A [NumFOCUS](https://numfocus.org/) (Numerical Foundation for Open Code and Useable Science) é uma organização sem fins lucrativos que promove práticas abertas de pesquisa, dados e computação científica.
+
+![NumFOCUS bibliotecas](imagens/numfocus_bibliotecas.png)
